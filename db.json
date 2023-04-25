@@ -1,0 +1,215 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "title": "Москва",
+      "location": { "lat": 55.751244, "lon": 37.618423 },
+      "hotels": [
+        {
+          "feedbacks": [
+            {
+              "id": 1,
+              "userId": 1,
+              "rating": 4,
+              "comment": "Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно в апартаментах. Просто Супер! Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно вртаментах. Просто Супер!"
+            },
+            {
+              "id": 2,
+              "userId": 2,
+              "rating": 5,
+              "comment": "Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно в апартаментах. Просто Супер! Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно вртаментах. Просто Супер!"
+            },
+            {
+              "id": 3,
+              "userId": 3,
+              "rating": 4,
+              "comment": "Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно в апартаментах. Просто Супер! Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно вртаментах. Просто Супер!",
+              "photos": [
+                "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+                "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+                "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+              ]
+            },
+            {
+              "id": 4,
+              "userId": 4,
+              "rating": 6,
+              "comment": "Классный номер. Очень хорошее месторасположение.",
+              "photos": [
+                "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+                "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+                "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+              ]
+            },
+
+            {
+              "id": 5,
+              "userId": 5,
+              "rating": 4,
+              "comment": "Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно в апартаментах. Просто Супер! Классный номер. Очень хорошее месторасположение. Радушные хозяева. Было очень удобно вртаментах. Просто Супер!",
+              "photos": [
+                "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+                "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+                "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+              ]
+            }
+          ],
+          "photos": [
+            "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+            "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+            "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+          ],
+          "name": "Norke Варшавская",
+          "hotelId": "17720",
+          "description": "Отели бренда — флагманы сети Norke, имеют подтверждённую категорию 3 звезды и соответствуют высоким стандартам обслуживания.Отели Norke Prime, расположенные в самом центре столицы, пользуются большой популярностью у зарубежных гостей, а также приветствуют отечественных туристов, которые ценят неповторимый авторский дизайн и практичность современных номеров.",
+          "stars": 4,
+          "rating": 8.1,
+          "options": ["Breakfast", "Baggage", "Iron"],
+          "contactless": false,
+          "phones": ["+7 925 348 46 15", "+7 499 505 50 54"],
+          "location": {
+            "lat": 55.655976,
+            "lon": 37.613503
+          },
+          "address": "Болотниковская 5",
+          "juridicalAddress": "123103, Генерала Глаголева 15, к. 1, эт. 1, пом. III, офис 1",
+          "juridicalName": "ООО \"Апарта\"",
+          "INN": "7734417168",
+          "metro": "Варшавская",
+          "facilities": [
+            "Wi-Fi",
+            "Dryer",
+            "Shower",
+            "TV",
+            "Conditioner",
+            "Kitchen"
+          ],
+          "type": ["Apart-Hotel"],
+          "priceFrom": 2300,
+          "rooms": [
+            {
+              "price": 2300,
+              "rating": 4,
+              "name": "Трёхместный полулюкс",
+              "roomId": "129984",
+              "facilities": [
+                "Wi-Fi",
+                "Dryer",
+                "Shower",
+                "TV",
+                "Conditioner",
+                "Kitchen"
+              ],
+              "hourly": null,
+              "area": 15,
+              "persons": 3,
+              "bed": "140x200см",
+              "photos": [
+                "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+                "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+                "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+              ]
+            },
+            {
+              "price": 2300,
+              "rating": 4,
+              "name": "Четырёхместный люкс",
+              "roomId": "129985",
+              "facilities": [
+                "Wi-Fi",
+                "Dryer",
+                "Shower",
+                "TV",
+                "Conditioner",
+                "Kitchen"
+              ],
+              "hourly": null,
+              "area": 22,
+              "persons": 4,
+              "bed": "160x200см",
+              "photos": [
+                "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+                "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+                "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Санкт-Петербург",
+      "location": { "lat": 59.938806, "lon": 30.314278 },
+      "hotels": [
+        {
+          "feedbacks": [
+            {
+              "id": 1,
+              "userId": 1,
+              "rating": 4,
+              "comment": "Классный номер!"
+            }
+          ],
+          "photos": [
+            "https://s.101hotelscdn.ru/uploads/image/hotel_image/496099/242147.jpg",
+            "https://norke.ru/wp-content/uploads/2021/06/galereya-krasnoprudnaya-glavnaya-10-scaled.jpeg",
+            "https://norke.ru/wp-content/uploads/2021/07/varshavskaya-mini-studiya-s-odnoj-bolshoj-krovatyu-2.jpg"
+          ],
+          "name": "Norke Apart Финский ",
+          "hotelId": "17720",
+          "description": "Лучший отель северной столицы",
+          "stars": 5,
+          "rating": 7.5,
+          "options": ["Breakfast", "Baggage", "Iron"],
+          "contactless": false,
+          "phones": ["+7 925 348 46 15", "+7 499 505 50 54"],
+          "location": {
+            "lat": 59.956512,
+            "lon": 30.353813
+          },
+          "address": "Санкт-Петербург, Финский 7",
+          "juridicalAddress": "Санкт-Петербург, Финский 7",
+          "juridicalName": "ООО \"Апарта\"",
+          "INN": "7734417168",
+          "metro": "Площадь Ленина",
+          "facilities": [
+            "Wi-Fi",
+            "Dryer",
+            "Shower",
+            "TV",
+            "Conditioner",
+            "Kitchen"
+          ],
+          "type": ["Apart-Hotel"],
+          "priceFrom": 2600,
+          "rooms": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Московская область",
+      "location": { "lat": 55.75583, "lon": 37.6173 },
+      "hotels": []
+    },
+    {
+      "id": 4,
+      "title": "Сочи",
+      "location": { "lat": 43.60281, "lon": 39.73415 },
+      "hotels": []
+    },
+    {
+      "id": 5,
+      "title": "Анапа",
+      "location": { "lat": 44.8857, "lon": 37.31992 },
+      "hotels": []
+    },
+    {
+      "id": 6,
+      "title": "Казань",
+      "location": { "lat": 55.83043, "lon": 49.06608 },
+      "hotels": []
+    }
+  ]
+}
